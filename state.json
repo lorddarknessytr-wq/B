@@ -775,7 +775,8 @@
       "725e15b3",
       "703508c5",
       "fd604bde",
-      "4688452b"
+      "4688452b",
+      "caa38848"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "32da9730",
@@ -783,7 +784,8 @@
       "caa38848",
       "cc4992ed",
       "b5017f2d",
-      "7f1e9bce"
+      "7f1e9bce",
+      "b2505ff0"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "6f144e86",
@@ -791,21 +793,25 @@
       "329755c0",
       "b2505ff0",
       "90d49175",
-      "bd4b2f6e"
+      "bd4b2f6e",
+      "dbb87efb"
     ]
   },
   "used_videos_per_channel": {
     "c0CuSok06a844f1e58208239a94a22c8": [
       "8ef1fc5c",
-      "f50d0e3b"
+      "f50d0e3b",
+      "fefb12c0"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "a430a188",
-      "59094955"
+      "59094955",
+      "19af82e7"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "86794b21",
-      "fefb12c0"
+      "fefb12c0",
+      "2a4d7cca"
     ]
   },
   "channel_activated": {
@@ -827,7 +833,7 @@
     "hours": []
   },
   "sent_log": {
-    "heartbeat": "2026-09-20 20:45"
+    "heartbeat": "2026-09-20 21:00"
   },
   "errors": [
     {
@@ -843,9 +849,23 @@
       "category": "ارسال به Barbarii_mod",
       "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: ('Connection aborted.', TimeoutError('The write operation timed out'))",
       "notified": true
+    },
+    {
+      "id": "cf089c",
+      "time": "2026-09-20 21:03",
+      "category": "ارسال به Amo_Heydar2",
+      "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "notified": true
+    },
+    {
+      "id": "2b430e",
+      "time": "2026-09-20 21:06",
+      "category": "ارسال به BarBarii_y",
+      "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "notified": true
     }
   ],
-  "last_error_notify_time": "2026-09-20 15:12",
+  "last_error_notify_time": "2026-09-20 21:07",
   "bug_page_offset": 0,
   "pending_file_requests": {},
   "processed_updates": [
@@ -990,13 +1010,17 @@
       "c0DpOuK09d14c5817e0aaf7d4ed92e2b:10": true,
       "c0CuSok06a844f1e58208239a94a22c8:11": true,
       "c0CqedK0e54490bb6d949332ff624132:11": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:11": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:11": true,
+      "c0CuSok06a844f1e58208239a94a22c8:12": true,
+      "c0CqedK0e54490bb6d949332ff624132:12": true,
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:12": true
     },
     "video": {
       "c0CuSok06a844f1e58208239a94a22c8:2": true,
       "c0CuSok06a844f1e58208239a94a22c8:3": true,
       "c0CqedK0e54490bb6d949332ff624132:3": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:3": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:3": true,
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:4": true
     }
   },
   "owner_keypad_set": true
