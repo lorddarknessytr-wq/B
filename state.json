@@ -1,5 +1,5 @@
 {
-  "last_offset_id": "6aafbaaab2a311e08b052422",
+  "last_offset_id": "6aafbb5f74289a5b472ddde0",
   "mods": [
     {
       "id": "2b4bf75f",
@@ -275,9 +275,225 @@
       "description": "از ۲۶ اسباب‌بازی کنترلی مختلف استفاده کنید، حرکات نمایشی انجام دهید، از موانع عبور کنید و مسیرهای مسابقه‌ای خود را طراحی کنید",
       "version": "1.26.20+",
       "number": "25"
+    },
+    {
+      "id": "e543c423",
+      "photo_file_id": "eD276Ct503928340985342848886720399184282026091820",
+      "photo_file_type": null,
+      "photo_message_id": "1914098212171948331",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Fishing++",
+      "description": "این افزونه (Addon) مکانیسم جدیدی برای ماهیگیری، هوش مصنوعی پیشرفته برای رفتار ماهی‌ها، سیستم‌های پیچیده آکواریوم و بسیاری ویژگی‌های دیگر را به تجربه ماهیگیری اضافه می‌کند.\n🔥 بیش از ۴۰ گونه ماهی\n🔥 قلاب‌های ماهیگیری جدید با قابلیت ساخت (Crafting)!\n🔥 نمایش ایموت (Emote) توسط ماهی‌ها\n🔥 آکواریوم‌های واقع‌گرایانه و کاربردی!",
+      "version": "26.30",
+      "number": "26"
+    },
+    {
+      "id": "3732827a",
+      "photo_file_id": "eER5ugLf06745149785691549168447521974772026091914",
+      "photo_file_type": null,
+      "photo_message_id": "1914098212175948331",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Freight Train",
+      "description": "ما به طور فعال در حال بهبود محیط بازی هستیم و پیشنهاد می‌کنیم از افزونه \"Freight Train\" برای ماینکرافت استفاده کنید. همانطور که حدس زده‌اید، این بار می‌توانید از یک وسیله نقلیه کاملاً جدید به شکل یک قطار استفاده کنید. این وسیله بزرگ در هر لحظه از طریق یک دستور در دسترس خواهد بود. در عین حال، این قطار به همراه ریل‌ها و انواع واگن‌ها اضافه خواهد شد.",
+      "version": "1.26.30+",
+      "number": "27"
+    },
+    {
+      "id": "6a916c4b",
+      "photo_file_id": "eER5ckrf08482479925328847278656512341642026091915",
+      "photo_file_type": null,
+      "photo_message_id": "1914098212177948331",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Police",
+      "description": "در دنیای خود، می‌توانید پلیس شوید یا دزد. در این بازی، ماشین‌های پلیس، سگ‌ها، ابزارها و بسیاری چیزهای دیگر وجود دارد.",
+      "version": "1.26.0+",
+      "number": "28"
+    },
+    {
+      "id": "cc4992ed",
+      "photo_file_id": "eER6FwXv06901596972749881552682787447372026091915",
+      "photo_file_type": null,
+      "photo_message_id": "1914098212180948331",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Animal Armor+",
+      "description": "14 مجموعه زره حیوانات منحصربه‌فرد با بیش از 40 قابلیت! به موش تبدیل شوید، مانند یک عقاب پرواز کنید و مانند یک شیر غرش کنید.",
+      "version": "1.26.40+",
+      "number": "29"
+    },
+    {
+      "id": "7f1e9bce",
+      "photo_file_id": "eEShmgzW00156220796943221789644759662582026091915",
+      "photo_file_type": null,
+      "photo_message_id": "1914098212184948331",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Farmer's Delight",
+      "description": "این یک افزونه آشپزی است که به شما امکان می‌دهد انواع مختلف غذاها را بپزید، محصولات جدیدی را پرورش دهید و همچنین مبلمان جدیدی به دست آورید!",
+      "version": "1.21.101+",
+      "number": "30"
     }
   ],
-  "videos": [],
+  "videos": [
+    {
+      "id": "19af82e7",
+      "video_file_id": "eFH4cvYA00098104048103543281733476597352026092011",
+      "file_type": "Video",
+      "message_id": "1914098212335948331",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "b255a1fb",
+      "video_file_id": "eFH5F1XF08535561502738537467658390966962026092011",
+      "file_type": "Video",
+      "message_id": "1914098212337948331",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "7d44e4dd",
+      "video_file_id": "eFH4FpgM00923341617162687435656214517972026092011",
+      "file_type": "Video",
+      "message_id": "1914098212338948331",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "42fa47ff",
+      "video_file_id": "eFH3Fyfa02704546817932416445668694502512026092011",
+      "file_type": "Video",
+      "message_id": "1914098212341948331",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "ac5a4dae",
+      "video_file_id": "eFH3f9vV07988902046908179155800679961062026092011",
+      "file_type": "Video",
+      "message_id": "1914098212343948331",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "f50d0e3b",
+      "video_file_id": "eFH3RjhF06950144572832960546459328126942026092011",
+      "file_type": "Video",
+      "message_id": "1914098212344948331",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "ea8ca5a5",
+      "video_file_id": "eFH3Gq5o07401562708935900395463417325892026092011",
+      "file_type": "Video",
+      "message_id": "1914098212345948331",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "2545ec3e",
+      "video_file_id": "eFH4gZLe01647778927815268694708107145762026092011",
+      "file_type": "Video",
+      "message_id": "1914098212348948331",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "8fdb78e8",
+      "video_file_id": "eFH3jVLj00700857389228149770843720218722026092011",
+      "file_type": "Video",
+      "message_id": "1914098212349948331",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "8a5977a6",
+      "video_file_id": "eFH4oKQJ02735190856568074251417808462912026092011",
+      "file_type": "Video",
+      "message_id": "1914098212352948331",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "a430a188",
+      "video_file_id": "eFH4IEru06756165193020105763337608611802026092011",
+      "file_type": "Video",
+      "message_id": "1914098212354948331",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "fefb12c0",
+      "video_file_id": "eFH4B74w01846351680086641317969996798322026092011",
+      "file_type": "Video",
+      "message_id": "1914098212357948331",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "068750b1",
+      "video_file_id": "eFH3aeta02169998990376972552461259117482026092011",
+      "file_type": "Video",
+      "message_id": "1914098212360948331",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "86794b21",
+      "video_file_id": "eFIeWBXT03676077949984159822079782707972026092011",
+      "file_type": "Video",
+      "message_id": "1914098212362948331",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "d5f79ea6",
+      "video_file_id": "eFIeuddW05285658712357602201614582500202026092011",
+      "file_type": "Video",
+      "message_id": "1914098212364948331",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "2a4d7cca",
+      "video_file_id": "eFId4NwN04534189060699939830419440167672026092011",
+      "file_type": "Video",
+      "message_id": "1914098212365948331",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "6ed39e93",
+      "video_file_id": "eFIeqsCb05304840846765442799253493328452026092011",
+      "file_type": "Video",
+      "message_id": "1914098212368948331",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "59094955",
+      "video_file_id": "eFIg7cqr02203580112379241229245508520142026092011",
+      "file_type": "Video",
+      "message_id": "1914098212369948331",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "e6de9fd8",
+      "video_file_id": "eFIf8Xm505359546753002535197429887804692026092011",
+      "file_type": "Video",
+      "message_id": "1914098212370948331",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    },
+    {
+      "id": "8ef1fc5c",
+      "video_file_id": "eFIfELIH06041483143100950959101845359302026092011",
+      "file_type": "Video",
+      "message_id": "1914098212371948331",
+      "source_channel_guid": null,
+      "title": "ویدیو جدید"
+    }
+  ],
   "pending_photo": null,
   "files_by_number": {
     "1": {
@@ -504,6 +720,51 @@
       "message_id": "1914098212169948331",
       "source_channel_guid": null,
       "title": "افزونه‌ی RC Toys"
+    },
+    "26": {
+      "file_id": "eDJmb6aL06504934459787658506912404306152026091812",
+      "file_type": "File",
+      "file_name": "FISHING++ by domikalmazika.mcaddon",
+      "manual_extension": ".mcaddon",
+      "message_id": "1914098212174948331",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Fishing++"
+    },
+    "27": {
+      "file_id": "eER59VtV07212747636477619106885785663192026091914",
+      "file_type": "File",
+      "file_name": "Freight-Train-Addon-MCPE-1.21.mcaddon",
+      "manual_extension": ".mcaddon",
+      "message_id": "1914098212176948331",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Freight Train"
+    },
+    "28": {
+      "file_id": "eER6QHlV01459953695656014022676062828102026091915",
+      "file_type": "File",
+      "file_name": "Police Add-On (addon).mcaddon",
+      "manual_extension": ".mcaddon",
+      "message_id": "1914098212178948331",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Police"
+    },
+    "29": {
+      "file_id": "eER5oUaF07588037729724465206770506580212026091915",
+      "file_type": "File",
+      "file_name": "Animal Armor+ (addon).mcaddon",
+      "manual_extension": ".mcaddon",
+      "message_id": "1914098212181948331",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Animal Armor+"
+    },
+    "30": {
+      "file_id": "eEShBFdY01585524807540983798924947991292026091915",
+      "file_type": "File",
+      "file_name": "FarmersDelight_RU.mcaddon",
+      "manual_extension": ".mcaddon",
+      "message_id": "1914098212187948331",
+      "source_channel_guid": null,
+      "title": "افزونه‌ی Farmer's Delight"
     }
   },
   "recent_files": {},
@@ -592,7 +853,38 @@
     "m:1914098212163948331",
     "m:1914098212165948331",
     "m:1914098212167948331",
-    "m:1914098212169948331"
+    "m:1914098212169948331",
+    "m:1914098212171948331",
+    "m:1914098212174948331",
+    "m:1914098212175948331",
+    "m:1914098212176948331",
+    "m:1914098212177948331",
+    "m:1914098212178948331",
+    "m:1914098212180948331",
+    "m:1914098212181948331",
+    "m:1914098212184948331",
+    "m:1914098212187948331",
+    "m:1914098212335948331",
+    "m:1914098212337948331",
+    "m:1914098212338948331",
+    "m:1914098212341948331",
+    "m:1914098212343948331",
+    "m:1914098212344948331",
+    "m:1914098212345948331",
+    "m:1914098212348948331",
+    "m:1914098212349948331",
+    "m:1914098212352948331",
+    "m:1914098212354948331",
+    "m:1914098212357948331",
+    "m:1914098212360948331",
+    "m:1914098212362948331",
+    "m:1914098212364948331",
+    "m:1914098212365948331",
+    "m:1914098212368948331",
+    "m:1914098212369948331",
+    "m:1914098212370948331",
+    "m:1914098212371948331",
+    "m:1914102213942948331"
   ],
   "activity_log": {
     "b0IahsF0BGKC00dfcf5d3ac7d3f64eec": [
