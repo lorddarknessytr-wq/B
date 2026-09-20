@@ -33,20 +33,20 @@
 
   "destination_channels": [
     {
-      "guid": "c0CkD2t08fb7278be73f1113291ad44d",
-      "name": "BarBariio_yt",
-      "enabled": true,
+      "guid": "c0CuSok06a844f1e58208239a94a22c8",
+      "name": "Amo_Heydar2",
+      "enabled": false,
       "plan": 1,
       "send_file_directly": true,
-      "channel_link": "@BarBariio_yt",
+      "channel_link": "@Amo_Heydar2",
       "mod_photo_extra_text": "خوشت اومد ری اکشن فراموشت نشه🧡😊",
       "mod_file_caption": "#فایل_مود \n\n 📋 File : 1-1 \n\n اگه بزنی رو پیوستن یک بربری خوشمزه بهت میدم🥰 \n\n〘 @BarBariio_yt ⏎ 〙",
       "video_extra_text": "ری اکشن فراموش نکنی مَشتی😊\n\n 〘 @BarBariio_yt ⏎ 〙",
       "videos_enabled": true
     },
     {
-      "guid": "..",
-      "name": "",
+      "guid": "c0CqedK0e54490bb6d949332ff624132",
+      "name": "BarBarii_y",
       "enabled": false,
       "plan": 1,
       "send_file_directly": true,
