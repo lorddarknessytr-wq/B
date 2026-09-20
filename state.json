@@ -1,5 +1,5 @@
 {
-  "last_offset_id": "6aafb3843ad5c854e7d1baff",
+  "last_offset_id": "6aafb99e917043a838fe2af0",
   "mods": [],
   "videos": [],
   "pending_photo": null,
@@ -10,12 +10,11 @@
   "channel_activated": {
     "c0CkD2t08fb7278be73f1113291ad44d": "2026-09-20 13:45",
     "..": "2026-09-20 13:45",
-    "c0DpOuK09d14c5817e0aaf7d4ed92e2b": "2026-09-20 13:45"
+    "c0DpOuK09d14c5817e0aaf7d4ed92e2b": "2026-09-20 13:45",
+    "c0CuSok06a844f1e58208239a94a22c8": "2026-09-20 14:17",
+    "c0CqedK0e54490bb6d949332ff624132": "2026-09-20 14:17"
   },
-  "known_users": [
-    "c0CqedK0e54490bb6d949332ff624132",
-    "c0CuSok06a844f1e58208239a94a22c8"
-  ],
+  "known_users": [],
   "blocked_users": {},
   "awaiting_ticket": [],
   "awaiting_broadcast": false,
@@ -27,7 +26,7 @@
     "hours": []
   },
   "sent_log": {
-    "heartbeat": "2026-09-20 13:45"
+    "heartbeat": "2026-09-20 14:17"
   },
   "errors": [],
   "last_error_notify_time": null,
@@ -38,7 +37,8 @@
     "m:1914054192548948331",
     "m:1914057164712216815",
     "m:1914057325914729484",
-    "m:1914057764112247218"
+    "m:1914057764112247218",
+    "m:1914095289786608911"
   ],
   "activity_log": {
     "b0IahsF0BGKC00dfcf5d3ac7d3f64eec": [
