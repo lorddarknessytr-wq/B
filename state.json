@@ -780,7 +780,8 @@
       "dbb87efb",
       "2b4bf75f",
       "42f85575",
-      "b2505ff0"
+      "b2505ff0",
+      "88ad3b2a"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "32da9730",
@@ -793,7 +794,8 @@
       "36d9e790",
       "4688452b",
       "d870d600",
-      "725e15b3"
+      "725e15b3",
+      "88ad3b2a"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "6f144e86",
@@ -806,7 +808,8 @@
       "cc4992ed",
       "a4c398e0",
       "364c0992",
-      "36d9e790"
+      "36d9e790",
+      "42f85575"
     ]
   },
   "used_videos_per_channel": {
@@ -814,19 +817,22 @@
       "8ef1fc5c",
       "f50d0e3b",
       "fefb12c0",
-      "59094955"
+      "59094955",
+      "42fa47ff"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "a430a188",
       "59094955",
       "19af82e7",
-      "068750b1"
+      "068750b1",
+      "ac5a4dae"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "86794b21",
       "fefb12c0",
       "2a4d7cca",
-      "ac5a4dae"
+      "ac5a4dae",
+      "59094955"
     ]
   },
   "channel_activated": {
@@ -848,7 +854,7 @@
     "hours": []
   },
   "sent_log": {
-    "heartbeat": "2026-09-21 11:46"
+    "heartbeat": "2026-09-21 12:00"
   },
   "errors": [
     {
@@ -1017,12 +1023,18 @@
       "c0DpOuK09d14c5817e0aaf7d4ed92e2b:1": true,
       "c0CuSok06a844f1e58208239a94a22c8:2": true,
       "c0CqedK0e54490bb6d949332ff624132:2": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:2": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:2": true,
+      "c0CuSok06a844f1e58208239a94a22c8:3": true,
+      "c0CqedK0e54490bb6d949332ff624132:3": true,
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:3": true
     },
     "video": {
       "c0CuSok06a844f1e58208239a94a22c8:0": true,
       "c0CqedK0e54490bb6d949332ff624132:0": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:0": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:0": true,
+      "c0CuSok06a844f1e58208239a94a22c8:1": true,
+      "c0CqedK0e54490bb6d949332ff624132:1": true,
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:1": true
     }
   },
   "owner_keypad_set": true
