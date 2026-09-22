@@ -898,7 +898,8 @@
       "90d49175",
       "bd4b2f6e",
       "656ce838",
-      "762df111"
+      "762df111",
+      "95cceb26"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "32da9730",
@@ -929,7 +930,8 @@
       "5736770f",
       "e543c423",
       "8f39a200",
-      "bd372002"
+      "bd372002",
+      "762df111"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "6f144e86",
@@ -960,7 +962,8 @@
       "762df111",
       "4688452b",
       "725e15b3",
-      "656ce838"
+      "656ce838",
+      "95cceb26"
     ]
   },
   "used_videos_per_channel": {
@@ -974,7 +977,8 @@
       "068750b1",
       "19af82e7",
       "b255a1fb",
-      "6ed39e93"
+      "6ed39e93",
+      "d5f79ea6"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "a430a188",
@@ -986,7 +990,8 @@
       "d5f79ea6",
       "7d44e4dd",
       "2545ec3e",
-      "6ed39e93"
+      "6ed39e93",
+      "b255a1fb"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "86794b21",
@@ -997,7 +1002,8 @@
       "6ed39e93",
       "8a5977a6",
       "8ef1fc5c",
-      "42fa47ff"
+      "42fa47ff",
+      "f50d0e3b"
     ]
   },
   "channel_activated": {
@@ -1019,7 +1025,7 @@
     "hours": []
   },
   "sent_log": {
-    "heartbeat": "2026-09-22 14:45"
+    "heartbeat": "2026-09-22 15:00"
   },
   "errors": [
     {
@@ -1070,9 +1076,23 @@
       "category": "ارسال به Barbarii_mod",
       "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: ('Connection aborted.', TimeoutError('The write operation timed out'))",
       "notified": true
+    },
+    {
+      "id": "5faeba",
+      "time": "2026-09-22 15:02",
+      "category": "ارسال به BarBarii_y",
+      "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: آپلود مجدد جواب معتبر نداد: {'status': 'SERVER_ERROR'}",
+      "notified": true
+    },
+    {
+      "id": "8aae04",
+      "time": "2026-09-22 15:04",
+      "category": "ارسال به Barbarii_mod",
+      "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "notified": true
     }
   ],
-  "last_error_notify_time": "2026-09-22 09:04",
+  "last_error_notify_time": "2026-09-22 15:04",
   "bug_page_offset": 5,
   "pending_file_requests": {},
   "processed_updates": [
@@ -1228,13 +1248,17 @@
       "c0DpOuK09d14c5817e0aaf7d4ed92e2b:4": true,
       "c0CuSok06a844f1e58208239a94a22c8:5": true,
       "c0CqedK0e54490bb6d949332ff624132:5": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:5": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:5": true,
+      "c0CuSok06a844f1e58208239a94a22c8:6": true,
+      "c0CqedK0e54490bb6d949332ff624132:6": true,
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:6": true
     },
     "video": {
       "c0CqedK0e54490bb6d949332ff624132:0": true,
       "c0CuSok06a844f1e58208239a94a22c8:1": true,
       "c0CqedK0e54490bb6d949332ff624132:1": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:1": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:1": true,
+      "c0CuSok06a844f1e58208239a94a22c8:2": true
     }
   },
   "owner_keypad_set": true
