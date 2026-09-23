@@ -877,7 +877,8 @@
       "88ad3b2a",
       "32da9730",
       "2b4bf75f",
-      "4688452b"
+      "4688452b",
+      "a4c398e0"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "95cceb26",
@@ -887,7 +888,8 @@
       "32da9730",
       "762df111",
       "caa38848",
-      "b5017f2d"
+      "b5017f2d",
+      "b2505ff0"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "f1f90763",
@@ -897,7 +899,8 @@
       "329755c0",
       "90d49175",
       "bd4b2f6e",
-      "dbb87efb"
+      "dbb87efb",
+      "8f39a200"
     ]
   },
   "used_videos_per_channel": {
@@ -915,7 +918,8 @@
       "d5f79ea6",
       "86794b21",
       "8fdb78e8",
-      "8a5977a6"
+      "8a5977a6",
+      "2a4d7cca"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "a430a188",
@@ -932,7 +936,8 @@
       "8a5977a6",
       "fefb12c0",
       "86794b21",
-      "e6de9fd8"
+      "e6de9fd8",
+      "42fa47ff"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "86794b21",
@@ -948,7 +953,8 @@
       "e6de9fd8",
       "068750b1",
       "7d44e4dd",
-      "8fdb78e8"
+      "8fdb78e8",
+      "ea8ca5a5"
     ]
   },
   "channel_activated": {
@@ -970,7 +976,7 @@
     "hours": []
   },
   "sent_log": {
-    "heartbeat": "2026-09-23 14:45"
+    "heartbeat": "2026-09-23 15:00"
   },
   "errors": [
     {
@@ -1263,12 +1269,18 @@
       "c0CqedK0e54490bb6d949332ff624132:4": true,
       "c0DpOuK09d14c5817e0aaf7d4ed92e2b:4": true,
       "c0CuSok06a844f1e58208239a94a22c8:5": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:5": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:5": true,
+      "c0CuSok06a844f1e58208239a94a22c8:6": true,
+      "c0CqedK0e54490bb6d949332ff624132:6": true,
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:6": true
     },
     "video": {
       "c0CuSok06a844f1e58208239a94a22c8:0": true,
       "c0CqedK0e54490bb6d949332ff624132:0": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:0": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:0": true,
+      "c0CuSok06a844f1e58208239a94a22c8:2": true,
+      "c0CqedK0e54490bb6d949332ff624132:2": true,
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:2": true
     }
   },
   "owner_keypad_set": true
