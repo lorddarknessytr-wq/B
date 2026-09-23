@@ -884,7 +884,8 @@
       "36d9e790",
       "d870d600",
       "42f85575",
-      "bd372002"
+      "bd372002",
+      "b2505ff0"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "95cceb26",
@@ -901,7 +902,8 @@
       "cc4992ed",
       "6f144e86",
       "703508c5",
-      "656ce838"
+      "656ce838",
+      "6a916c4b"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "f1f90763",
@@ -918,7 +920,8 @@
       "36d9e790",
       "b2505ff0",
       "4688452b",
-      "bd372002"
+      "bd372002",
+      "6a916c4b"
     ]
   },
   "used_videos_per_channel": {
@@ -1000,7 +1003,7 @@
     "hours": []
   },
   "sent_log": {
-    "heartbeat": "2026-09-23 21:45"
+    "heartbeat": "2026-09-23 22:00"
   },
   "errors": [
     {
@@ -1142,9 +1145,16 @@
       "category": "ارسال به Barbarii_mod",
       "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: آپلود مجدد جواب معتبر نداد: {'status': 'SERVER_ERROR'}",
       "notified": true
+    },
+    {
+      "id": "689343",
+      "time": "2026-09-23 22:01",
+      "category": "ارسال به Amo_Heydar2",
+      "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: آپلود مجدد جواب معتبر نداد: {'status': 'INVALID_INPUT', 'dev_message': 'Invalid format for image file'}",
+      "notified": true
     }
   ],
-  "last_error_notify_time": "2026-09-23 18:04",
+  "last_error_notify_time": "2026-09-23 22:03",
   "bug_page_offset": 10,
   "pending_file_requests": {},
   "processed_updates": [
@@ -1321,7 +1331,9 @@
       "c0DpOuK09d14c5817e0aaf7d4ed92e2b:11": true,
       "c0CuSok06a844f1e58208239a94a22c8:12": true,
       "c0CqedK0e54490bb6d949332ff624132:12": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:12": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:12": true,
+      "c0CqedK0e54490bb6d949332ff624132:13": true,
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:13": true
     },
     "video": {
       "c0CuSok06a844f1e58208239a94a22c8:0": true,
