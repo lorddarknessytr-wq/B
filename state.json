@@ -880,7 +880,8 @@
       "4688452b",
       "a4c398e0",
       "cc4992ed",
-      "e543c423"
+      "e543c423",
+      "36d9e790"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "95cceb26",
@@ -893,7 +894,8 @@
       "b5017f2d",
       "b2505ff0",
       "90d49175",
-      "e543c423"
+      "e543c423",
+      "cc4992ed"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "f1f90763",
@@ -906,7 +908,8 @@
       "dbb87efb",
       "8f39a200",
       "d870d600",
-      "725e15b3"
+      "725e15b3",
+      "36d9e790"
     ]
   },
   "used_videos_per_channel": {
@@ -925,7 +928,8 @@
       "86794b21",
       "8fdb78e8",
       "8a5977a6",
-      "2a4d7cca"
+      "2a4d7cca",
+      "ea8ca5a5"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "a430a188",
@@ -943,7 +947,8 @@
       "fefb12c0",
       "86794b21",
       "e6de9fd8",
-      "42fa47ff"
+      "42fa47ff",
+      "ea8ca5a5"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "86794b21",
@@ -960,7 +965,8 @@
       "068750b1",
       "7d44e4dd",
       "8fdb78e8",
-      "ea8ca5a5"
+      "ea8ca5a5",
+      "b255a1fb"
     ]
   },
   "channel_activated": {
@@ -982,7 +988,7 @@
     "hours": []
   },
   "sent_log": {
-    "heartbeat": "2026-09-23 17:45"
+    "heartbeat": "2026-09-23 18:00"
   },
   "errors": [
     {
@@ -1117,9 +1123,16 @@
       "category": "ارسال به BarBarii_y",
       "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: ('Connection aborted.', TimeoutError('The write operation timed out'))",
       "notified": true
+    },
+    {
+      "id": "3176c7",
+      "time": "2026-09-23 18:03",
+      "category": "ارسال به Barbarii_mod",
+      "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: آپلود مجدد جواب معتبر نداد: {'status': 'SERVER_ERROR'}",
+      "notified": true
     }
   ],
-  "last_error_notify_time": "2026-09-23 14:05",
+  "last_error_notify_time": "2026-09-23 18:04",
   "bug_page_offset": 10,
   "pending_file_requests": {},
   "processed_updates": [
@@ -1284,7 +1297,10 @@
       "c0DpOuK09d14c5817e0aaf7d4ed92e2b:7": true,
       "c0CuSok06a844f1e58208239a94a22c8:8": true,
       "c0CqedK0e54490bb6d949332ff624132:8": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:8": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:8": true,
+      "c0CuSok06a844f1e58208239a94a22c8:9": true,
+      "c0CqedK0e54490bb6d949332ff624132:9": true,
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:9": true
     },
     "video": {
       "c0CuSok06a844f1e58208239a94a22c8:0": true,
@@ -1292,7 +1308,9 @@
       "c0DpOuK09d14c5817e0aaf7d4ed92e2b:0": true,
       "c0CuSok06a844f1e58208239a94a22c8:2": true,
       "c0CqedK0e54490bb6d949332ff624132:2": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:2": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:2": true,
+      "c0CuSok06a844f1e58208239a94a22c8:3": true,
+      "c0CqedK0e54490bb6d949332ff624132:3": true
     }
   },
   "owner_keypad_set": true
