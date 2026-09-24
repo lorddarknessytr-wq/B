@@ -892,7 +892,8 @@
       "8f39a200",
       "762df111",
       "6a916c4b",
-      "fd604bde"
+      "fd604bde",
+      "95cceb26"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "95cceb26",
@@ -917,7 +918,8 @@
       "329755c0",
       "dbb87efb",
       "36d9e790",
-      "bd4b2f6e"
+      "bd4b2f6e",
+      "b31ab3b6"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "f1f90763",
@@ -942,7 +944,8 @@
       "a4c398e0",
       "6f144e86",
       "88ad3b2a",
-      "762df111"
+      "762df111",
+      "3732827a"
     ]
   },
   "used_videos_per_channel": {
@@ -965,29 +968,11 @@
       "ea8ca5a5",
       "ac5a4dae",
       "a430a188",
-      "7d44e4dd"
+      "7d44e4dd",
+      "e6de9fd8"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
-      "a430a188",
-      "59094955",
-      "19af82e7",
-      "068750b1",
-      "ac5a4dae",
-      "2a4d7cca",
-      "d5f79ea6",
-      "7d44e4dd",
-      "2545ec3e",
-      "6ed39e93",
-      "b255a1fb",
-      "8a5977a6",
-      "fefb12c0",
-      "86794b21",
-      "e6de9fd8",
-      "42fa47ff",
-      "ea8ca5a5",
-      "8ef1fc5c",
-      "f50d0e3b",
-      "8fdb78e8"
+      "6ed39e93"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "86794b21",
@@ -1008,7 +993,8 @@
       "b255a1fb",
       "19af82e7",
       "d5f79ea6",
-      "a430a188"
+      "a430a188",
+      "2545ec3e"
     ]
   },
   "channel_activated": {
@@ -1030,7 +1016,7 @@
     "hours": []
   },
   "sent_log": {
-    "heartbeat": "2026-09-24 14:45"
+    "heartbeat": "2026-09-24 15:00"
   },
   "errors": [
     {
@@ -1339,7 +1325,10 @@
       "c0DpOuK09d14c5817e0aaf7d4ed92e2b:4": true,
       "c0CuSok06a844f1e58208239a94a22c8:5": true,
       "c0CqedK0e54490bb6d949332ff624132:5": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:5": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:5": true,
+      "c0CuSok06a844f1e58208239a94a22c8:6": true,
+      "c0CqedK0e54490bb6d949332ff624132:6": true,
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:6": true
     },
     "video": {
       "c0CuSok06a844f1e58208239a94a22c8:0": true,
@@ -1347,7 +1336,10 @@
       "c0DpOuK09d14c5817e0aaf7d4ed92e2b:0": true,
       "c0CuSok06a844f1e58208239a94a22c8:1": true,
       "c0CqedK0e54490bb6d949332ff624132:1": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:1": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:1": true,
+      "c0CuSok06a844f1e58208239a94a22c8:2": true,
+      "c0CqedK0e54490bb6d949332ff624132:2": true,
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:2": true
     }
   },
   "owner_keypad_set": true
