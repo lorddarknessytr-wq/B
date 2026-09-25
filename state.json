@@ -902,7 +902,8 @@
       "f1f90763",
       "a56937a1",
       "5736770f",
-      "b5017f2d"
+      "b5017f2d",
+      "329755c0"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "95cceb26",
@@ -937,7 +938,8 @@
       "725e15b3",
       "7f1e9bce",
       "5736770f",
-      "88ad3b2a"
+      "88ad3b2a",
+      "f1f90763"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "f1f90763",
@@ -972,7 +974,8 @@
       "42f85575",
       "364c0992",
       "b31ab3b6",
-      "a56937a1"
+      "a56937a1",
+      "7f1e9bce"
     ]
   },
   "used_videos_per_channel": {
@@ -1008,7 +1011,7 @@
     "hours": []
   },
   "sent_log": {
-    "heartbeat": "2026-09-25 10:45"
+    "heartbeat": "2026-09-25 11:00"
   },
   "errors": [
     {
@@ -1171,9 +1174,16 @@
       "category": "ارسال به Amo_Heydar2",
       "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: ('Connection aborted.', TimeoutError('The write operation timed out'))",
       "notified": true
+    },
+    {
+      "id": "5cebd8",
+      "time": "2026-09-25 11:06",
+      "category": "ارسال به Barbarii_mod",
+      "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "notified": true
     }
   ],
-  "last_error_notify_time": "2026-09-25 10:05",
+  "last_error_notify_time": "2026-09-25 11:06",
   "bug_page_offset": 10,
   "pending_file_requests": {},
   "processed_updates": [
@@ -1317,7 +1327,9 @@
       "c0CuSok06a844f1e58208239a94a22c8:0": true,
       "c0DpOuK09d14c5817e0aaf7d4ed92e2b:0": true,
       "c0CqedK0e54490bb6d949332ff624132:1": true,
-      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:1": true
+      "c0DpOuK09d14c5817e0aaf7d4ed92e2b:1": true,
+      "c0CuSok06a844f1e58208239a94a22c8:2": true,
+      "c0CqedK0e54490bb6d949332ff624132:2": true
     },
     "video": {
       "c0CuSok06a844f1e58208239a94a22c8:0": true,
