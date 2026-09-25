@@ -1,5 +1,5 @@
 {
-  "last_offset_id": "6ab3951d4ceeae02ab94009c",
+  "last_offset_id": "6ab691ee982f177bffad1ed5",
   "mods": [
     {
       "id": "2b4bf75f",
@@ -875,7 +875,8 @@
       "b31ab3b6",
       "e168c08c",
       "a56937a1",
-      "762df111"
+      "762df111",
+      "e543c423"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "95cceb26",
@@ -883,7 +884,8 @@
       "f1f90763",
       "6a916c4b",
       "90d49175",
-      "725e15b3"
+      "725e15b3",
+      "d870d600"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "f1f90763",
@@ -891,7 +893,8 @@
       "90d49175",
       "d870d600",
       "42f85575",
-      "725e15b3"
+      "725e15b3",
+      "88ad3b2a"
     ]
   },
   "used_videos_per_channel": {
@@ -917,7 +920,9 @@
     "c0CuSok06a844f1e58208239a94a22c8": "2026-09-20 14:17",
     "c0CqedK0e54490bb6d949332ff624132": "2026-09-20 14:17"
   },
-  "known_users": [],
+  "known_users": [
+    "b0I134D0BGKC07d219a7c019e2721e9e"
+  ],
   "blocked_users": {},
   "awaiting_ticket": [],
   "awaiting_broadcast": false,
@@ -929,7 +934,7 @@
     "hours": []
   },
   "sent_log": {
-    "heartbeat": "2026-09-25 18:45"
+    "heartbeat": "2026-09-25 19:00"
   },
   "errors": [
     {
@@ -1204,9 +1209,30 @@
       "category": "ارسال به Barbarii_mod",
       "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: ('Connection aborted.', TimeoutError('The write operation timed out'))",
       "notified": true
+    },
+    {
+      "id": "1ef1bb",
+      "time": "2026-09-25 19:04",
+      "category": "ارسال به Amo_Heydar2",
+      "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "notified": true
+    },
+    {
+      "id": "cae216",
+      "time": "2026-09-25 19:07",
+      "category": "ارسال به BarBarii_y",
+      "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "notified": true
+    },
+    {
+      "id": "1559e7",
+      "time": "2026-09-25 19:09",
+      "category": "ارسال به Barbarii_mod",
+      "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "notified": true
     }
   ],
-  "last_error_notify_time": "2026-09-25 18:09",
+  "last_error_notify_time": "2026-09-25 19:09",
   "bug_page_offset": 10,
   "pending_file_requests": {},
   "processed_updates": [
@@ -1312,7 +1338,9 @@
     "m:1915336837997948331",
     "m:1915336837998948331",
     "m:1916283317040948331",
-    "m:1917374888743948331"
+    "m:1917374888743948331",
+    "m:1919835074626971630",
+    "m:1919835074691971630"
   ],
   "activity_log": {
     "b0IahsF0BGKC00dfcf5d3ac7d3f64eec": [
@@ -1342,6 +1370,11 @@
       "2026-09-20 13:48:36",
       "2026-09-20 13:48:37",
       "2026-09-20 13:51:21"
+    ],
+    "b0I134D0BGKC07d219a7c019e2721e9e": [
+      "2026-09-25 19:01:11",
+      "2026-09-25 19:01:11",
+      "2026-09-25 19:01:13"
     ]
   },
   "posted_slots_today": {
