@@ -903,7 +903,8 @@
       "a56937a1",
       "5736770f",
       "b5017f2d",
-      "329755c0"
+      "329755c0",
+      "7f1e9bce"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "95cceb26",
@@ -939,7 +940,8 @@
       "7f1e9bce",
       "5736770f",
       "88ad3b2a",
-      "f1f90763"
+      "f1f90763",
+      "e168c08c"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "f1f90763",
@@ -975,7 +977,8 @@
       "364c0992",
       "b31ab3b6",
       "a56937a1",
-      "7f1e9bce"
+      "7f1e9bce",
+      "32da9730"
     ]
   },
   "used_videos_per_channel": {
@@ -1011,7 +1014,7 @@
     "hours": []
   },
   "sent_log": {
-    "heartbeat": "2026-09-25 11:45"
+    "heartbeat": "2026-09-25 12:00"
   },
   "errors": [
     {
@@ -1181,9 +1184,30 @@
       "category": "ارسال به Barbarii_mod",
       "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: ('Connection aborted.', TimeoutError('The write operation timed out'))",
       "notified": true
+    },
+    {
+      "id": "b0b020",
+      "time": "2026-09-25 12:03",
+      "category": "ارسال به Amo_Heydar2",
+      "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "notified": true
+    },
+    {
+      "id": "1cbff5",
+      "time": "2026-09-25 12:06",
+      "category": "ارسال به BarBarii_y",
+      "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "notified": true
+    },
+    {
+      "id": "6c15d8",
+      "time": "2026-09-25 12:09",
+      "category": "ارسال به Barbarii_mod",
+      "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "notified": true
     }
   ],
-  "last_error_notify_time": "2026-09-25 11:06",
+  "last_error_notify_time": "2026-09-25 12:09",
   "bug_page_offset": 10,
   "pending_file_requests": {},
   "processed_updates": [
