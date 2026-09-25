@@ -872,17 +872,20 @@
     "c0CuSok06a844f1e58208239a94a22c8": [
       "2b4bf75f",
       "364c0992",
-      "b31ab3b6"
+      "b31ab3b6",
+      "e168c08c"
     ],
     "c0CqedK0e54490bb6d949332ff624132": [
       "95cceb26",
       "a56937a1",
-      "f1f90763"
+      "f1f90763",
+      "6a916c4b"
     ],
     "c0DpOuK09d14c5817e0aaf7d4ed92e2b": [
       "f1f90763",
       "36d9e790",
-      "90d49175"
+      "90d49175",
+      "d870d600"
     ]
   },
   "used_videos_per_channel": {
@@ -920,7 +923,7 @@
     "hours": []
   },
   "sent_log": {
-    "heartbeat": "2026-09-25 15:45"
+    "heartbeat": "2026-09-25 16:00"
   },
   "errors": [
     {
@@ -1146,9 +1149,30 @@
       "category": "ارسال به Barbarii_mod",
       "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: ('Connection aborted.', TimeoutError('The write operation timed out'))",
       "notified": true
+    },
+    {
+      "id": "781435",
+      "time": "2026-09-25 16:04",
+      "category": "ارسال به Amo_Heydar2",
+      "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "notified": true
+    },
+    {
+      "id": "df529d",
+      "time": "2026-09-25 16:07",
+      "category": "ارسال به BarBarii_y",
+      "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "notified": true
+    },
+    {
+      "id": "bbc9fe",
+      "time": "2026-09-25 16:10",
+      "category": "ارسال به Barbarii_mod",
+      "message": "ارسال فایل شکست خورد؛ مستقیم، forward و re-upload ناموفق بودند: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "notified": true
     }
   ],
-  "last_error_notify_time": "2026-09-25 15:11",
+  "last_error_notify_time": "2026-09-25 16:10",
   "bug_page_offset": 10,
   "pending_file_requests": {},
   "processed_updates": [
